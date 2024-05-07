@@ -19,7 +19,5 @@ int main() {
     chat.manger("des croquettes");
     std::cout << std::endl;
 
-    std::cout << "Nombre total d'animaux : " << Animal::getTotalAnimaux() << std::endl;
-
     return 0;
 }
